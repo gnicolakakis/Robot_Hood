@@ -7,10 +7,11 @@ Description: Robot Hood is a quadruped area guard, programmed and driven by an a
 
 List of recommended equipment
 
-x1 arduino (uno/mega) 
+x1 arduino (uno/mega)
 x8 mg996r sermo motors 
-x1 sg90 servo moror κομμάτια plexi glass/πλαστικού για τον σκελετό 
-x1 camera (+ module για την συγκεκριμένη κάμερα) 
+x1 sg90 servo moror 
+x10 κομμάτια plexi glass/plastic for skeleton 
+x1 camera (+ module for this camera) 
 x1 wifi module 
 x1 temperature and humidity sensor
 x1 supersonic sensor
