@@ -12,7 +12,7 @@ x1 arduino (uno/mega)
 x11 mg996r servo motors 
 x16 κομμάτια plexi glass/plastic for skeleton 
 x1 camera (+ module for this camera) 
-x1 wifi module 
+x1 ESP32 camera + wifi module 
 x1 ESP8266 NodeMcu 
 x1 DHT11 temperature and humidity sensor
 x1 BMP280 barometric pressure sensor
@@ -20,3 +20,5 @@ x1 MQ2 gas sensor
 x1 supersonic sensor
 x1 solar panel 
 x1 lithium battery (6v-7.2v)
+
+Ενδεικτικό κόστος κατασκευής περίπου 150 Ευρώ
