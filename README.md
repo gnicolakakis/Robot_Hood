@@ -9,9 +9,8 @@ An additional feature is a solar panel which is used to recharge batteries, maki
 List of recommended equipment
 
 x1 arduino (uno/mega)
-x8 mg996r sermo motors 
-x1 sg90 servo moror 
-x10 κομμάτια plexi glass/plastic for skeleton 
+x11 mg996r servo motors 
+x16 κομμάτια plexi glass/plastic for skeleton 
 x1 camera (+ module for this camera) 
 x1 wifi module 
 x1 ESP8266 NodeMcu 
