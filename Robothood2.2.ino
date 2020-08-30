@@ -390,14 +390,17 @@ void stripse_deksia(){
  
   delay(800);
 }
+
 void ksaplwse(){
-  servo2.write(90+55);
+  servo1.write(90+70);
+  servo2.write(90+65);
   servo4.write(90+70);
-  servo6.write(90-70);
-  servo8.write(90-55);
+  servo6.write(90-84);
+  servo7.write(90-90);
+  servo8.write(90-80);
   delay(200);
   servo3.write(90+70);
-  servo5.write(90-70);
+  servo5.write(90-90);
 }
 void pese_right(){
   ksaplwse();
